@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaymatrad
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Artificial Intelligence...
+- 🌱 I’m currently discovering Artificial Intelligence...
 
 <!---
 shaymatrad/shaymatrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
