@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shaymatrad
+- 👋 Hi, I’m Shayma Trad
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently discovering Artificial Intelligence...
 
