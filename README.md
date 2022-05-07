@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shayma Trad
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently discovering Artificial Intelligence...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayma26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
